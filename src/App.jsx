@@ -4,7 +4,7 @@ const NAME = "pranav aadhithya kalaibabu";
 
 const EXPERIENCE = [
   {
-    role: "technical program manager",
+    role: "product manager intern",
     org: "torc robotics",
     dates: "may–aug 2025",
     detail: null,

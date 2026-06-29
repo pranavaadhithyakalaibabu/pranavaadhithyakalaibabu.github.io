@@ -63,7 +63,7 @@ const BUILT_PROJECTS = [
 
 const EDUCATION = [
   { degree: "m.s. engineering management", school: "johns hopkins university", dates: "2024–25" },
-  { degree: "b.e. electronics & communication", school: "anna university", dates: "2019–23" },
+  { degree: "b.e. electronics & communication", school: "ssn college of engineerng, anna university", dates: "2019–23" },
 ];
 
 function useTheme() {
